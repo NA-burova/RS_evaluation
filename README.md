@@ -1,7 +1,7 @@
 # RS_evaluation
 
 This repository contains code used in RS22 evaluation task.\
-To reproduce the experiments, one need to change directories name for datasets' downloadings and models'saving specified in the beginning of the notebooks. Also, attaching google drive have to be not done if one do not want to use GD.\
+To reproduce the experiments, one need to change directories' names for datasets' downloadings and models'saving specified in the beginning of the notebooks. Also, attaching google drive have to be not done if one do not want to use GD.\
 If running in colab and want to save models on GD, it's totally ok to change nothing.\
 You have to have kaggle API token in running directory to be allowed to download the data.\
 If one wants to get the fine-tuned models parameters, here they are: [link](https://drive.google.com/drive/folders/1aD3cEXsV6yJPPyNXoBHMjUBzEKCTJtXw?usp=sharing) \
